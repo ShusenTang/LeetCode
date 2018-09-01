@@ -1,0 +1,15 @@
+# 思路
+类似第26题, 用count记录非val的个数，从前往后遍历，如果值为val则跳过，否则令nums[count并=nums[i]并自增count
+# C++
+```
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        int count = 0;
+        for(int i = 0; i < nums.size(); i++){
+            if(nums[i] != val) nums[count++] = nums[i]; 
+        }
+        return count;
+    }
+};
+```
