@@ -29,6 +29,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/27.%20Remove%20Element.md)|Easy|  |
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/29.%20Divide%20Two%20Integers.md)|Medium|  |
 | 31 |[Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/31.%20Next%20Permutation.md)|Medium|  |
+| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|Medium|  |
 | 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/35.%20Search%20Insert%20Position.md)|Easy|  |
 | 38 |[Count and Say](https://leetcode.com/problems/count-and-say)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/38.%20Count%20and%20Say.md)|Easy|  |
 | 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/53.%20Maximum%20Subarray.md)|Easy|  |
