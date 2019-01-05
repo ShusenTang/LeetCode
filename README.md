@@ -32,6 +32,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 34 |[Find First and Last Position of Element in Sorted ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|Medium|  |
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|Medium|  |
 | 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/35.%20Search%20Insert%20Position.md)|Easy|  |
+|36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/36.%20Valid%20Sudoku.md)|Medium| |
 | 38 |[Count and Say](https://leetcode.com/problems/count-and-say)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/38.%20Count%20and%20Say.md)|Easy|  |
 | 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/53.%20Maximum%20Subarray.md)|Easy|  |
 | 58 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/58.%20Length%20of%20Last%20Word.md)|Easy|  |
