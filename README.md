@@ -35,6 +35,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 |36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/36.%20Valid%20Sudoku.md)|Medium| |
 | 38 |[Count and Say](https://leetcode.com/problems/count-and-say)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/38.%20Count%20and%20Say.md)|Easy|  |
 | 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/39.%20Combination%20Sum.md)|Medium|  |
+| 40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/40.%20Combination%20Sum%20II.md)|Medium|  |
 | 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/53.%20Maximum%20Subarray.md)|Easy|  |
 | 58 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/58.%20Length%20of%20Last%20Word.md)|Easy|  |
 | 66 |[Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/66.%20Plus%20One.md)|Easy|  |
