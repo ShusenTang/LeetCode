@@ -42,6 +42,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 47 |[Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/47.%20Permutations%20II.md)|Medium|  |
 | 48 |[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/48.%20Rotate%20Image.md)|Medium|  |
 | 49 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/49.%20Group%20Anagrams.md)|Medium|  |
+| 50 |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/50.%20Pow(x%2C%20n).md)|Medium|  |
 | 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/53.%20Maximum%20Subarray.md)|Easy|  |
 | 58 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/58.%20Length%20of%20Last%20Word.md)|Easy|  |
 | 66 |[Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/66.%20Plus%20One.md)|Easy|  |
