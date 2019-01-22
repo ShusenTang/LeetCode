@@ -46,6 +46,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 53 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/53.%20Maximum%20Subarray.md)|Easy|  |
 | 54 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/54.%20Spiral%20Matrix.md)|Medium|  |
 | 55 |[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/55.%20Jump%20Game.md)|Medium|  |
+| 56 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/56.%20Merge%20Intervals.md)|Medium|  |
 | 58 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/58.%20Length%20of%20Last%20Word.md)|Easy|  |
 | 66 |[Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/66.%20Plus%20One.md)|Easy|  |
 | 67 |[Add Binary](https://leetcode.com/problems/add-binary)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/67.%20Add%20Binary.md)|Easy|  |
