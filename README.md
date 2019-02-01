@@ -48,6 +48,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 55 |[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/55.%20Jump%20Game.md)|Medium|  |
 | 56 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/56.%20Merge%20Intervals.md)|Medium|  |
 | 58 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/58.%20Length%20of%20Last%20Word.md)|Easy|  |
+| 59 |[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/59.%20Spiral%20Matrix%20II.md)|Medium|  |
 | 66 |[Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/66.%20Plus%20One.md)|Easy|  |
 | 67 |[Add Binary](https://leetcode.com/problems/add-binary)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/67.%20Add%20Binary.md)|Easy|  |
 | 69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/69.%20Sqrt(x).md)|Easy|  |
