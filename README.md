@@ -57,6 +57,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 67 |[Add Binary](https://leetcode.com/problems/add-binary)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/67.%20Add%20Binary.md)|Easy|  |
 | 69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/69.%20Sqrt(x).md)|Easy|  |
 | 70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/70.%20Climbing%20Stairs.md)|Easy|  |
+| 71 |[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/71.%20Simplify%20Path.md)|Medium|  |
 | 83 |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Easy|  |
 | 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/88.%20Merge%20Sorted%20Array.md)|Easy|  |
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/100.%20Same%20Tree.md)|Easy|  |
