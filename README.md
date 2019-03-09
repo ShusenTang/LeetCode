@@ -65,6 +65,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 78 |[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/78.%20Subsets.md)|Medium|  |
 | 79 |[Word Search](https://leetcode.com/problems/word-search/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/79.%20Word%20Search.md)|Medium|  |
 | 80 |[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)|Medium|  |
+| 81 |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|  |
 | 83 |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Easy|  |
 | 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/88.%20Merge%20Sorted%20Array.md)|Easy|  |
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/100.%20Same%20Tree.md)|Easy|  |
