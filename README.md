@@ -70,6 +70,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 83 |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Easy|  |
 | 86 |[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/86.%20Partition%20List.md)|Medium|  |
 | 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/88.%20Merge%20Sorted%20Array.md)|Easy|  |
+| 89 |[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/89.%20Gray%20Code.md)|Medium|  |
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/100.%20Same%20Tree.md)|Easy|  |
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/101.%20Symmetric%20Tree.md)|Easy|  |
 | 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|  |
