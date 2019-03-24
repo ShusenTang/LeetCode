@@ -72,6 +72,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/88.%20Merge%20Sorted%20Array.md)|Easy|  |
 | 89 |[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/89.%20Gray%20Code.md)|Medium|  |
 | 90 |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/90.%20Subsets%20II.md)|Medium|  |
+| 91 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/91.%20Decode%20Ways.md)|Medium|  |
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/100.%20Same%20Tree.md)|Easy|  |
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/101.%20Symmetric%20Tree.md)|Easy|  |
 | 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|  |
