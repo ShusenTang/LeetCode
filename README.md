@@ -75,6 +75,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 91 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/91.%20Decode%20Ways.md)|Medium|  |
 | 92 |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/92.%20Reverse%20Linked%20List%20II.md)|Medium|  |
 | 93 |[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/93.%20Restore%20IP%20Addresses.md)|Medium|  |
+| 94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Medium|  |
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/100.%20Same%20Tree.md)|Easy|  |
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/101.%20Symmetric%20Tree.md)|Easy|  |
 | 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|  |
