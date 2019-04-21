@@ -78,6 +78,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Medium|  |
 | 95 |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/95.%20Unique%20Binary%20Search%20Trees%20II.md)|Medium|  |
 | 96 |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|  |
+| 98 |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/98.%20Validate%20Binary%20Search%20Tree.md)|Medium|  |
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/100.%20Same%20Tree.md)|Easy|  |
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/101.%20Symmetric%20Tree.md)|Easy|  |
 | 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|  |
