@@ -92,6 +92,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 110 |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/110.%20Balanced%20Binary%20Tree.md)|Easy|  |
 | 111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)|Easy|  |
 | 112 |[Path Sum](https://leetcode.com/problems/path-sum)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/112.%20Path%20Sum.md)|Easy|  |
+| 113 |[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/113.%20Path%20Sum%20II.md)|Medium|  |
 | 118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/118.%20Pascal's%20Triangle.md)|Easy|  |
 | 119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/119.%20Pascal's%20Triangle%20II.md)|Easy|  |
 | 121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|Easy|  |
