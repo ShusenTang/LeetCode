@@ -94,6 +94,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 112 |[Path Sum](https://leetcode.com/problems/path-sum)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/112.%20Path%20Sum.md)|Easy|  |
 | 113 |[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/113.%20Path%20Sum%20II.md)|Medium|  |
 | 114 |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)|Medium|  |
+| 116 |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|  |
 | 118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/118.%20Pascal's%20Triangle.md)|Easy|  |
 | 119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/119.%20Pascal's%20Triangle%20II.md)|Easy|  |
 | 121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|Easy|  |
