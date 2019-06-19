@@ -98,6 +98,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 117 |[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)|Medium|  |
 | 118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/118.%20Pascal's%20Triangle.md)|Easy|  |
 | 119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/119.%20Pascal's%20Triangle%20II.md)|Easy|  |
+| 120 |[Triangle](https://leetcode.com/problems/triangle/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/120.%20Triangle.md)|Medium|  |
 | 121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|Easy|  |
 | 122 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|Easy|  |
 | 125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/125.%20Valid%20Palindrome.md)|Easy|  |
