@@ -103,6 +103,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 122 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|Easy|  |
 | 125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/125.%20Valid%20Palindrome.md)|Easy|  |
 | 127 |[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/127.%20Word%20Ladder.md)|Medium|  |
+| 129 |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)|Medium|  |
 | 136 |[Single Number](https://leetcode.com/problems/single-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/136.%20Single%20Number.md)|Easy|  |
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/141.%20Linked%20List%20Cycle.md)|Easy|  |
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/155.%20Min%20Stack.md)|Easy|  |
