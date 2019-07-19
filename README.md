@@ -105,6 +105,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 127 |[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/127.%20Word%20Ladder.md)|Medium|  |
 | 129 |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)|Medium|  |
 | 130 |[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/130.%20Surrounded%20Regions.md)|Medium|  |
+| 131 |[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/131.%20Palindrome%20Partitioning.md)|Medium|  |
 | 136 |[Single Number](https://leetcode.com/problems/single-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/136.%20Single%20Number.md)|Easy|  |
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/141.%20Linked%20List%20Cycle.md)|Easy|  |
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/155.%20Min%20Stack.md)|Easy|  |
