@@ -110,6 +110,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 134 |[Gas Station](https://leetcode.com/problems/gas-station/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/134.%20Gas%20Station.md)|Medium|  |
 | 136 |[Single Number](https://leetcode.com/problems/single-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/136.%20Single%20Number.md)|Easy|  |
 | 137 |[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/137.%20Single%20Number%20II.md)|Medium|  |
+| 138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/138.%20Copy%20List%20with%20Random%20Pointer.md)|Medium|  |
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/141.%20Linked%20List%20Cycle.md)|Easy|  |
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/155.%20Min%20Stack.md)|Easy|  |
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.md)|Easy|  |
