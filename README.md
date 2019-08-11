@@ -114,6 +114,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 139 |[Word Break](https://leetcode.com/problems/word-break/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/139.%20Word%20Break.md)|Medium|  |
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/141.%20Linked%20List%20Cycle.md)|Easy|  |
 | 142 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/142.%20Linked%20List%20Cycle%20II.md)|Medium|  |
+| 143 |[Reorder List](https://leetcode.com/problems/reorder-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/143.%20Reorder%20List.md)|Medium|  |
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/155.%20Min%20Stack.md)|Easy|  |
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.md)|Easy|  |
 | 167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)|Easy|  |
