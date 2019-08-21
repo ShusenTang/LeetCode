@@ -117,6 +117,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 143 |[Reorder List](https://leetcode.com/problems/reorder-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/143.%20Reorder%20List.md)|Medium|  |
 | 144 |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/144.%20Binary%20Tree%20Preorder%20Traversal.md)|Medium|  |
 | 148 |[Sort List](https://leetcode.com/problems/sort-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/148.%20Sort%20List.md)|Medium|  |
+| 150 |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/150.%20Evaluate%20Reverse%20Polish%20Notation.md)|Medium|  |
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/155.%20Min%20Stack.md)|Easy|  |
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.md)|Easy|  |
 | 167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)|Easy|  |
