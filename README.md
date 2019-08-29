@@ -124,6 +124,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/155.%20Min%20Stack.md)|Easy|  |
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.md)|Easy|  |
 | 162 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/162.%20Find%20Peak%20Element.md)|Medium|  |
+| 165 |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/165.%20Compare%20Version%20Numbers.md)|Medium|  |
 | 167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)|Easy|  |
 | 168 |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/168.%20Excel%20Sheet%20Column%20Title.md)|Easy|  |
 | 169 |[Majority Element](https://leetcode.com/problems/majority-element)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/169.%20Majority%20Element.md)|Easy|  |
