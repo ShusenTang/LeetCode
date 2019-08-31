@@ -131,6 +131,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 169 |[Majority Element](https://leetcode.com/problems/majority-element)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/169.%20Majority%20Element.md)|Easy|  |
 | 171 |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/171.%20Excel%20Sheet%20Column%20Number.md)|Easy|  |
 | 172 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/172.%20Factorial%20Trailing%20Zeroes.md)|Easy|  |
+| 179 |[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/179.%20Largest%20Number.md)|Medium|  |
 | 189 |[Rotate Array](https://leetcode.com/problems/rotate-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/189.%20Rotate%20Array.md)|Easy|  |
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/190.%20Reverse%20Bits.md)|Easy|  |
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/191.%20Number%20of%201%20Bits.md)|Easy|  |
