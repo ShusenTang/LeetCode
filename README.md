@@ -147,6 +147,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/206.%20Reverse%20Linked%20List.md)|Easy|  |
 | 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/207.%20Course%20Schedule.md)|Medium|  |
 | 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/209.%20Minimum%20Size%20Subarray%20Sum.md)|Medium|  |
+| 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/210.%20Course%20Schedule%20II.md)|Medium|  |
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/217.%20Contains%20Duplicate.md)|Easy|  |
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/219.%20Contains%20Duplicate%20II.md)|Easy|  |
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/225.%20Implement%20Stack%20using%20Queues.md)|Easy|  |
