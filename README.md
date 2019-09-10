@@ -149,6 +149,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/209.%20Minimum%20Size%20Subarray%20Sum.md)|Medium|  |
 | 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/210.%20Course%20Schedule%20II.md)|Medium|  |
 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)|Medium|  |
+| 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/216.%20Combination%20Sum%20III.md)|Medium|  |
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/217.%20Contains%20Duplicate.md)|Easy|  |
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/219.%20Contains%20Duplicate%20II.md)|Easy|  |
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/225.%20Implement%20Stack%20using%20Queues.md)|Easy|  |
