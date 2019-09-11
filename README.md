@@ -152,6 +152,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/216.%20Combination%20Sum%20III.md)|Medium|  |
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/217.%20Contains%20Duplicate.md)|Easy|  |
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/219.%20Contains%20Duplicate%20II.md)|Easy|  |
+| 220 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/220.%20Contains%20Duplicate%20III.md)|Medium|  |
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/225.%20Implement%20Stack%20using%20Queues.md)|Easy|  |
 | 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/226.%20Invert%20Binary%20Tree.md)|Easy|  |
 | 231 |[Power of Two](https://leetcode.com/problems/power-of-two)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/231.%20Power%20of%20Two.md)|Easy|  |
