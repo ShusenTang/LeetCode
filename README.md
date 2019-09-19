@@ -155,6 +155,7 @@ LeetCode solutions with Chinese explanation. LeetCode中文题解。
 | 220 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/220.%20Contains%20Duplicate%20III.md)|Medium|  |
 | 221 |[Maximal Square](https://leetcode.com/problems/maximal-square/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/221.%20Maximal%20Square.md)|Medium|  |
 | 222 |[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/222.%20Count%20Complete%20Tree%20Nodes.md)|Medium|  |
+| 223 |[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/223.%20Rectangle%20Area.md)|Medium|  |
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/225.%20Implement%20Stack%20using%20Queues.md)|Easy|  |
 | 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/226.%20Invert%20Binary%20Tree.md)|Easy|  |
 | 231 |[Power of Two](https://leetcode.com/problems/power-of-two)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/231.%20Power%20of%20Two.md)|Easy|  |
