@@ -159,6 +159,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/225.%20Implement%20Stack%20using%20Queues.md)|Easy|  |
 | 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/226.%20Invert%20Binary%20Tree.md)|Easy|  |
 | 227 |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/227.%20Basic%20Calculator%20II.md)|Medium|  |
+| 228 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/228.%20Summary%20Ranges.md)|Medium|  |
 | 231 |[Power of Two](https://leetcode.com/problems/power-of-two)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/231.%20Power%20of%20Two.md)|Easy|  |
 | 232 |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/232.%20Implement%20Queue%20using%20Stacks.md)|Easy|  |
 | 234 |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/234.%20Palindrome%20Linked%20List.md)|Easy|  |
