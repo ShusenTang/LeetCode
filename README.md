@@ -161,6 +161,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 227 |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/227.%20Basic%20Calculator%20II.md)|Medium|  |
 | 228 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/228.%20Summary%20Ranges.md)|Medium|  |
 | 229 |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/229.%20Majority%20Element%20II.md)|Medium|  |
+| 230 |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)|Medium|  |
 | 231 |[Power of Two](https://leetcode.com/problems/power-of-two)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/231.%20Power%20of%20Two.md)|Easy|  |
 | 232 |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/232.%20Implement%20Queue%20using%20Stacks.md)|Easy|  |
 | 234 |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/234.%20Palindrome%20Linked%20List.md)|Easy|  |
