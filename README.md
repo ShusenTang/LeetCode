@@ -174,6 +174,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/242.%20Valid%20Anagram.md)|Easy|  |
 | 257 |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/257.%20Binary%20Tree%20Paths.md)|Easy|  |
 | 258 |[Add Digits](https://leetcode.com/problems/add-digits)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/258.%20Add%20Digits.md)|Easy|  |
+| 260 |[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/260.%20Single%20Number%20III.md)|Medium|  |
 | 263 |[Ugly Number](https://leetcode.com/problems/ugly-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/263.%20Ugly%20Number.md)|Easy|  |
 | 268 |[Missing Number](https://leetcode.com/problems/missing-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/268.%20Missing%20Number.md)|Easy|  |
 | 278 |[First Bad Version](https://leetcode.com/problems/first-bad-version)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/278.%20First%20Bad%20Version.md)|Easy|  |
