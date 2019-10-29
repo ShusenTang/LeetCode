@@ -176,6 +176,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 258 |[Add Digits](https://leetcode.com/problems/add-digits)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/258.%20Add%20Digits.md)|Easy|  |
 | 260 |[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/260.%20Single%20Number%20III.md)|Medium|  |
 | 263 |[Ugly Number](https://leetcode.com/problems/ugly-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/263.%20Ugly%20Number.md)|Easy|  |
+| 264 |[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/264.%20Ugly%20Number%20II.md)|Medium|  |
 | 268 |[Missing Number](https://leetcode.com/problems/missing-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/268.%20Missing%20Number.md)|Easy|  |
 | 278 |[First Bad Version](https://leetcode.com/problems/first-bad-version)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/278.%20First%20Bad%20Version.md)|Easy|  |
 | 283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/283.%20Move%20Zeroes.md)|Easy|  |
