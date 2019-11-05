@@ -234,3 +234,4 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 643 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/643.%20Maximum%20Average%20Subarray%20I.md)|Easy|  |
 | 661 |[Image Smoother](https://leetcode.com/problems/image-smoother)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/661.%20Image%20Smoother.md)|Easy|  |
 | 665 |[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/665.%20Non-decreasing%20Array.md)|Easy|  |
+| 714 |[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)|Medium|  |
