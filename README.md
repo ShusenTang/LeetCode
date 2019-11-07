@@ -186,6 +186,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/279.%20Perfect%20Squares.md)|Medium|  |
 | 283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/283.%20Move%20Zeroes.md)|Easy|  |
 | 287 |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/287.%20Find%20the%20Duplicate%20Number.md)|Medium|  |
+| 289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/289.%20Game%20of%20Life.md)|Medium|  |
 | 290 |[Word Pattern](https://leetcode.com/problems/word-pattern)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/290.%20Word%20Pattern.md)|Easy|  |
 | 292 |[Nim Game](https://leetcode.com/problems/nim-game)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/292.%20Nim%20Game.md)|Easy|  |
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.md)|Easy|  |
