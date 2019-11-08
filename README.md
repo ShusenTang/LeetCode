@@ -189,6 +189,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/289.%20Game%20of%20Life.md)|Medium|  |
 | 290 |[Word Pattern](https://leetcode.com/problems/word-pattern)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/290.%20Word%20Pattern.md)|Easy|  |
 | 292 |[Nim Game](https://leetcode.com/problems/nim-game)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/292.%20Nim%20Game.md)|Easy|  |
+| 300 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/300.%20Longest%20Increasing%20Subsequence.md)|Medium|  |
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.md)|Easy|  |
 | 309 |[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)|Medium|  |
 | 326 |[Power of Three](https://leetcode.com/problems/power-of-three)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/326.%20Power%20of%20Three.md)|Easy|  |
