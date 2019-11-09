@@ -193,6 +193,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.md)|Easy|  |
 | 304 |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|  |
 | 309 |[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)|Medium|  |
+| 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/312.%20Burst%20Balloons.md)|Hard|  |
 | 326 |[Power of Three](https://leetcode.com/problems/power-of-three)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/326.%20Power%20of%20Three.md)|Easy|  |
 | 342 |[Power of Four](https://leetcode.com/problems/power-of-four)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/342.%20Power%20of%20Four.md)|Easy|  |
 | 344 |[Reverse String](https://leetcode.com/problems/reverse-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/344.%20Reverse%20String.md)|Easy|  |
