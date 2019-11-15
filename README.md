@@ -196,6 +196,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 309 |[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)|Medium|  |
 | 310 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/310.%20Minimum%20Height%20Trees.md)|Medium|  |
 | 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/312.%20Burst%20Balloons.md)|Hard|  |
+| 313 |[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/313.%20Super%20Ugly%20Number.md)|Medium|  |
 | 326 |[Power of Three](https://leetcode.com/problems/power-of-three)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/326.%20Power%20of%20Three.md)|Easy|  |
 | 342 |[Power of Four](https://leetcode.com/problems/power-of-four)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/342.%20Power%20of%20Four.md)|Easy|  |
 | 344 |[Reverse String](https://leetcode.com/problems/reverse-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/344.%20Reverse%20String.md)|Easy|  |
