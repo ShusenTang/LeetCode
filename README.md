@@ -1,7 +1,7 @@
 # LeetCode
 My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。   
 每个题目都保证击败超过80%的提交，并尽量给出多种解法并分析算法复杂度。    
-每日持续更新中，欢迎交流，欢迎star :D
+每日持续更新中，欢迎交流，欢迎star :D （已完成244题）
 
 | #    | 题目        |   题解   |   难度  |
 | ---- | -----------| ------- | ------- |
