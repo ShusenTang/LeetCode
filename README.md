@@ -1,7 +1,7 @@
 # LeetCode
 My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。   
 每个题目都保证击败超过80%的提交，并尽量给出多种解法并分析算法复杂度。    
-每日持续更新中，欢迎交流，欢迎star :D （已完成244题）
+每日持续更新中，欢迎交流，欢迎star :D 
 
 | #    | 题目        |   题解   |   难度  |
 | ---- | -----------| ------- | ------- |
@@ -193,6 +193,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.md)|Easy|  |
 | 304 |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|  |
 | 306 |[Additive Number](https://leetcode.com/problems/additive-number/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/306.%20Additive%20Number.md)|Medium|  |
+| 307 |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/307.%20Range%20Sum%20Query%20-%20Mutable.md)|Medium|  |
 | 309 |[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)|Medium|  |
 | 310 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/310.%20Minimum%20Height%20Trees.md)|Medium|  |
 | 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/312.%20Burst%20Balloons.md)|Hard|  |
