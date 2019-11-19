@@ -218,6 +218,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 409 |[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/409.%20Longest%20Palindrome.md)|Easy|  |
 | 414 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/414.%20Third%20Maximum%20Number.md)|Easy|  |
 | 415 |[Add Strings](https://leetcode.com/problems/add-strings)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/415.%20Add%20Strings.md)|Easy|  |
+| 416 |[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/416.%20Partition%20Equal%20Subset%20Sum.md)|Medium|  |
 | 429 |[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)|Easy|  |
 | 434 |[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/434.%20Number%20of%20Segments%20in%20a%20String.md)|Easy|  |
 | 437 |[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/437.%20Path%20Sum%20III.md)|Easy|  |
