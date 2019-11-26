@@ -236,6 +236,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 475 |[Heaters](https://leetcode.com/problems/heaters)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/475.%20Heaters.md)|Easy|  |
 | 476 |[Number Complement](https://leetcode.com/problems/number-complement)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/476.%20Number%20Complement.md)|Easy|  |
 | 485 |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/485.%20Max%20Consecutive%20Ones.md)|Easy|  |
+| 494 |[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/494.%20Target%20Sum.md)|Medium|  |
 | 496 |[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/496.%20Next%20Greater%20Element%20I.md)|Easy|  |
 | 500 |[Keyboard Row](https://leetcode.com/problems/keyboard-row)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/500.%20Keyboard%20Row.md)|Easy|  |
 | 532 |[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/532.%20K-diff%20Pairs%20in%20an%20Array.md)|Easy|  |
