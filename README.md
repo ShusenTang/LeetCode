@@ -212,6 +212,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 338 |[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/338.%20Counting%20Bits.md)|Medium|  |
 | 341 |[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/341.%20Flatten%20Nested%20List%20Iterator.md)|Medium|  |
 | 342 |[Power of Four](https://leetcode.com/problems/power-of-four)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/342.%20Power%20of%20Four.md)|Easy|  |
+| 343 |[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/343.%20Integer%20Break.md)|Medium|  |
 | 344 |[Reverse String](https://leetcode.com/problems/reverse-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/344.%20Reverse%20String.md)|Easy|  |
 | 345 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/345.%20Reverse%20Vowels%20of%20a%20String.md)|Easy|  |
 | 349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/349.%20Intersection%20of%20Two%20Arrays.md)|Easy|  |
