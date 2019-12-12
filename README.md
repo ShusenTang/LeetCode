@@ -218,6 +218,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 347 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/347.%20Top%20K%20Frequent%20Elements.md)|Medium|  |
 | 349 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/349.%20Intersection%20of%20Two%20Arrays.md)|Easy|  |
 | 350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/350.%20Intersection%20of%20Two%20Arrays%20II.md)|Easy|  |
+| 357 |[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.md)|Medium|  |
 | 367 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/367.%20Valid%20Perfect%20Square.md)|Easy|  |
 | 371 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/371.%20Sum%20of%20Two%20Integers.md)|Easy|  |
 | 374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/374.%20Guess%20Number%20Higher%20or%20Lower.md)|Easy|  |
