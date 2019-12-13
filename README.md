@@ -223,6 +223,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 367 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/367.%20Valid%20Perfect%20Square.md)|Easy|  |
 | 368 |[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/368.%20Largest%20Divisible%20Subset.md)|Medium|  |
 | 371 |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/371.%20Sum%20of%20Two%20Integers.md)|Easy|  |
+| 372 |[Super Pow](https://leetcode.com/problems/super-pow/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/372.%20Super%20Pow.md)|Medium|  |
 | 374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/374.%20Guess%20Number%20Higher%20or%20Lower.md)|Easy|  |
 | 383 |[Ransom Note](https://leetcode.com/problems/ransom-note)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/383.%20Ransom%20Note.md)|Easy|  |
 | 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/387.%20First%20Unique%20Character%20in%20a%20String.md)|Easy|  |
