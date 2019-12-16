@@ -251,6 +251,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 459 |[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/459.%20Repeated%20Substring%20Pattern.md)|Easy|  |
 | 461 |[Hamming Distance](https://leetcode.com/problems/hamming-distance)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/461.%20Hamming%20Distance.md)|Easy|  |
 | 463 |[Island Perimeter](https://leetcode.com/problems/island-perimeter)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/463.%20Island%20Perimeter.md)|Easy|  |
+| 474 |[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/474.%20Ones%20and%20Zeroes.md)|Medium|  |
 | 475 |[Heaters](https://leetcode.com/problems/heaters)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/475.%20Heaters.md)|Easy|  |
 | 476 |[Number Complement](https://leetcode.com/problems/number-complement)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/476.%20Number%20Complement.md)|Easy|  |
 | 485 |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/485.%20Max%20Consecutive%20Ones.md)|Easy|  |
