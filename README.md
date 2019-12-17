@@ -228,6 +228,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 374 |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/374.%20Guess%20Number%20Higher%20or%20Lower.md)|Easy|  |
 | 375 |[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/375.%20Guess%20Number%20Higher%20or%20Lower%20II.md)|Medium|  |
 | 376 |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/376.%20Wiggle%20Subsequence.md)|Medium|  |
+| 377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/377.%20Combination%20Sum%20IV.md)|Medium|  |
 | 383 |[Ransom Note](https://leetcode.com/problems/ransom-note)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/383.%20Ransom%20Note.md)|Easy|  |
 | 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/387.%20First%20Unique%20Character%20in%20a%20String.md)|Easy|  |
 | 389 |[Find the Difference](https://leetcode.com/problems/find-the-difference)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/389.%20Find%20the%20Difference.md)|Easy|  |
