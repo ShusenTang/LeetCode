@@ -230,6 +230,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 376 |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/376.%20Wiggle%20Subsequence.md)|Medium|  |
 | 377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/377.%20Combination%20Sum%20IV.md)|Medium|  |
 | 378 |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)|Medium|  |
+| 380 |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/380.%20Insert%20Delete%20GetRandom%20O(1).md)|Medium|  |
 | 383 |[Ransom Note](https://leetcode.com/problems/ransom-note)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/383.%20Ransom%20Note.md)|Easy|  |
 | 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/387.%20First%20Unique%20Character%20in%20a%20String.md)|Easy|  |
 | 389 |[Find the Difference](https://leetcode.com/problems/find-the-difference)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/389.%20Find%20the%20Difference.md)|Easy|  |
