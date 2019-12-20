@@ -235,6 +235,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 382 |[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/382.%20Linked%20List%20Random%20Node.md)|Medium|  |
 | 383 |[Ransom Note](https://leetcode.com/problems/ransom-note)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/383.%20Ransom%20Note.md)|Easy|  |
 | 384 |[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/384.%20Shuffle%20an%20Array.md)|Medium|  |
+| 385 |[Mini Parser](https://leetcode.com/problems/mini-parser/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/385.%20Mini%20Parser.md)|Medium|  |
 | 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/387.%20First%20Unique%20Character%20in%20a%20String.md)|Easy|  |
 | 389 |[Find the Difference](https://leetcode.com/problems/find-the-difference)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/389.%20Find%20the%20Difference.md)|Easy|  |
 | 398 |[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/398.%20Random%20Pick%20Index.md)|Medium|  |
