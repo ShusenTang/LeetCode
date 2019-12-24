@@ -241,6 +241,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 388 |[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/388.%20Longest%20Absolute%20File%20Path.md)|Medium|  |
 | 389 |[Find the Difference](https://leetcode.com/problems/find-the-difference)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/389.%20Find%20the%20Difference.md)|Easy|  |
 | 390 |[Elimination Game](https://leetcode.com/problems/elimination-game/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/390.%20Elimination%20Game.md)|Medium|  |
+| 392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/392.%20Is%20Subsequence.md)|Easy|  |
 | 398 |[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/398.%20Random%20Pick%20Index.md)|Medium|  |
 | 400 |[Nth Digit](https://leetcode.com/problems/nth-digit)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/400.%20Nth%20Digit.md)|Easy|  |
 | 404 |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/404.%20Sum%20of%20Left%20Leaves.md)|Easy|  |
