@@ -1,7 +1,8 @@
-# LeetCode
 My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。   
 每个题目都保证击败超过80%的提交，并尽量给出多种解法并分析算法复杂度。    
 每日持续更新中，欢迎交流，欢迎star :D 
+
+另外，[`algorithm`](algorithm/README.md)文件夹对经典算法作了简单介绍并给出代码模板，方便刷题参考使用。
 
 | #    | 题目        |   题解   |   难度  |
 | ---- | -----------| ------- | ------- |
