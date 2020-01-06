@@ -7,7 +7,18 @@
 ## 图
 
 * [最小生成树](graph/MST.md)
+    * Prim算法
+    * Kruskal算法
+
+* [最短路径](graph/shortest_path.md)
+    * Dijkstra算法 
+    * Bellman-Ford算法
+    * Floyd算法
+
 
 ## 动态规划
 
 * [背包问题](dynamic_programming/pack_problem.md)
+    * 01背包
+    * 完全背包
+    * 多重背包
