@@ -246,6 +246,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 393 |[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/393.%20UTF-8%20Validation.md)|Medium|  |
 | 394 |[Decode String](https://leetcode.com/problems/decode-string/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/394.%20Decode%20String.md)|Medium|  |
 | 395 |[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)|Medium|  |
+| 397 |[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/397.%20Integer%20Replacement.md)|Medium|  |
 | 398 |[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/398.%20Random%20Pick%20Index.md)|Medium|  |
 | 400 |[Nth Digit](https://leetcode.com/problems/nth-digit)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/400.%20Nth%20Digit.md)|Easy|  |
 | 404 |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/404.%20Sum%20of%20Left%20Leaves.md)|Easy|  |
