@@ -2,7 +2,7 @@
 
 《剑指offer》第2版中的面试题对应的LeetCode题目。
 * 编号：题目在书中的编号；
-* 题目：[《牛客网剑指offer专题》](https://www.nowcoder.com/ta/coding-interviews?page=1)对应题目链接；
+* 题目：[《牛客网剑指offer专题》](https://www.nowcoder.com/ta/coding-interviews?page=1)对应题目链接，这是第1版的，所以第2版有的题目这里没有；
 * LeetCode: 对应LeetCode题目的题解链接；
 
 
@@ -17,5 +17,6 @@
 | 12 | [矩阵中的路径](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&tqId=11218&tPage=4&rp=4&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [79. Word Search](solutions/79.%20Word%20Search.md)|
 | 15 | [二进制中1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tqId=11164&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [191. Number of 1 Bits](solutions/191.%20Number%20of%201%20Bits.md)|
 | 16 | [数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tqId=11165&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [50. Pow(x, n)](solutions/50.%20Pow(x%2C%20n).md)|
+| 18 | 删除链表中的节点 | [237. Delete Node in a Linked List](solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.md)| 略有不同 |
 
 
