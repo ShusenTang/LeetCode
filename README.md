@@ -16,6 +16,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/7.%20Reverse%20Integer.md)|Easy|  |
 | 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/8.%20String%20to%20Integer%20(atoi).md)|Medium|  |
 | 9 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/9.%20Palindrome%20Number.md)|Easy|  |
+| 10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](solutions/10.%20Regular%20Expression%20Matching.md)|Hard|  |
 | 11 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/11.%20Container%20With%20Most%20Water.md)|Medium|  |
 | 12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/12.%20Integer%20to%20Roman.md)|Medium|  |
 | 13 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/13.%20Roman%20to%20Integer.md)|Easy|  |
