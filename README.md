@@ -284,6 +284,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 532 |[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/532.%20K-diff%20Pairs%20in%20an%20Array.md)|Easy|  |
 | 561 |[Array Partition I](https://leetcode.com/problems/array-partition-i)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/561.%20Array%20Partition%20I.md)|Easy|  |
 | 566 |[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/566.%20Reshape%20the%20Matrix.md)|Easy|  |
+| 572 |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](solutions/572.%20Subtree%20of%20Another%20Tree.md)|Easy|  |
 | 581 |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)|Easy|  |
 | 605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/605.%20Can%20Place%20Flowers.md)|Easy|  |
 | 628 |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/628.%20Maximum%20Product%20of%20Three%20Numbers.md)|Easy|  |
