@@ -24,6 +24,7 @@
 | 21 | [调整数组顺序使奇数位于偶数之前](https://www.nowcoder.com/practice/6f8c901d091949a5837e24bb82a731f2?tpId=13&tqId=11206&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [905. Sort Array By Parity](solutions/905.%20Sort%20Array%20By%20Parity.md)| 要求刚好相反 |
 | 22 | [链表中倒数第k个节点](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [19. Remove Nth Node From End of List](solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)| 查找然后删除 |
 | 23 | [链表中环的入口节点](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tqId=11208&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [142. Linked List Cycle II](solutions/142.%20Linked%20List%20Cycle%20II.md)|  |
+| 24 | [反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [206. Reverse Linked List](solutions/206.%20Reverse%20Linked%20List.md)|  |
 
 
 
