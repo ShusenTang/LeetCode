@@ -37,6 +37,7 @@
 | 32 | [三、之字型打印二叉树](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tqId=11212&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [103. Binary Tree Zigzag Level Order Traversal](solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)|
 | 33 | [二叉搜索树的后序遍历序列](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&tqId=11176&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 255. Verify Preorder Sequence in Binary Search Tree | 有锁 |
 | 34 | [二叉树中和为某一值的路径](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [113. Path Sum II](solutions/113.%20Path%20Sum%20II.md)|
+| 35 | [复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [138. Copy List with Random Pointer](solutions/138.%20Copy%20List%20with%20Random%20Pointer.md)|
 
 
 
