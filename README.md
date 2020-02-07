@@ -195,6 +195,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/289.%20Game%20of%20Life.md)|Medium|  |
 | 290 |[Word Pattern](https://leetcode.com/problems/word-pattern)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/290.%20Word%20Pattern.md)|Easy|  |
 | 292 |[Nim Game](https://leetcode.com/problems/nim-game)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/292.%20Nim%20Game.md)|Easy|  |
+| 297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|  |
 | 300 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/300.%20Longest%20Increasing%20Subsequence.md)|Medium|  |
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.md)|Easy|  |
 | 304 |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|  |
