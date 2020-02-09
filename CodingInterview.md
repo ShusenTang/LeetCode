@@ -45,6 +45,8 @@
 | 38 | 扩展：字符串的组合 | [77. Combinations](solutions/77.%20Combinations.md)| 
 | 39 | [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tqId=11181&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [169. Majority Element](solutions/169.%20Majority%20Element.md)| 
 | 40 | [最小的k个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tqId=11182&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [215. Kth Largest Element in an Array](solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)| 略有不同 |
+| 41 | [数据流中的中位数](https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tqId=11216&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [295. Find Median from Data Stream](solutions/295.%20Find%20Median%20from%20Data%20Stream.md)|
+
 
 
 
