@@ -57,6 +57,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 61 |[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/61.%20Rotate%20List.md)|Medium|  |
 | 62 |[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/62.%20Unique%20Paths.md)|Medium|  |
 | 63 |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/63.%20Unique%20Paths%20II.md)|Medium|  |
+| 64 |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](solutions/64.%20Minimum%20Path%20Sum.md)|Medium|  |
 | 65 |[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](solutions/65.%20Valid%20Number.md)|Hard|  |
 | 66 |[Plus One](https://leetcode.com/problems/plus-one)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/66.%20Plus%20One.md)|Easy|  |
 | 67 |[Add Binary](https://leetcode.com/problems/add-binary)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/67.%20Add%20Binary.md)|Easy|  |
