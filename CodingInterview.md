@@ -51,6 +51,7 @@
 | 44 | 数字序列中某一位的数字 | [400. Nth Digit](solutions/400.%20Nth%20Digit.md)|
 | 45 | [把数组排成最小的数](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tqId=11185&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [179. Largest Number](solutions/179.%20Largest%20Number.md)| 刚好相反 |
 | 46 | 把数字翻译成字符串 | [91. Decode Ways](solutions/91.%20Decode%20Ways.md)| 略有不同 |
+| 47 | 礼物的最大价值 | [64. Minimum Path Sum](solutions/64.%20Minimum%20Path%20Sum.md)| 刚好相反 |
 
 
 
