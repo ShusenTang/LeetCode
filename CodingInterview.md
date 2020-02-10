@@ -47,6 +47,7 @@
 | 40 | [最小的k个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tqId=11182&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [215. Kth Largest Element in an Array](solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)| 略有不同 |
 | 41 | [数据流中的中位数](https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tqId=11216&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [295. Find Median from Data Stream](solutions/295.%20Find%20Median%20from%20Data%20Stream.md)|
 | 42 | [连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tqId=11183&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [53. Maximum Subarray](solutions/53.%20Maximum%20Subarray.md)|
+| 43 | [1到n整数中1出现的次数](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tqId=11184&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [233. Number of Digit One](solutions/233.%20Number%20of%20Digit%20One.md)|
 
 
 
