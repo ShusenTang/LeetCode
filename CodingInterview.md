@@ -48,6 +48,7 @@
 | 41 | [数据流中的中位数](https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tqId=11216&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [295. Find Median from Data Stream](solutions/295.%20Find%20Median%20from%20Data%20Stream.md)|
 | 42 | [连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tqId=11183&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [53. Maximum Subarray](solutions/53.%20Maximum%20Subarray.md)|
 | 43 | [1到n整数中1出现的次数](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tqId=11184&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [233. Number of Digit One](solutions/233.%20Number%20of%20Digit%20One.md)|
+| 44 | 数字序列中某一位的数字 | [400. Nth Digit](solutions/400.%20Nth%20Digit.md)|
 
 
 
