@@ -49,6 +49,7 @@
 | 42 | [连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tqId=11183&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [53. Maximum Subarray](solutions/53.%20Maximum%20Subarray.md)|
 | 43 | [1到n整数中1出现的次数](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tqId=11184&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [233. Number of Digit One](solutions/233.%20Number%20of%20Digit%20One.md)|
 | 44 | 数字序列中某一位的数字 | [400. Nth Digit](solutions/400.%20Nth%20Digit.md)|
+| 45 | [把数组排成最小的数](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tqId=11185&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [179. Largest Number](solutions/179.%20Largest%20Number.md)| 刚好相反 |
 
 
 
