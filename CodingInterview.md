@@ -54,6 +54,9 @@
 | 47 | 礼物的最大价值 | [64. Minimum Path Sum](solutions/64.%20Minimum%20Path%20Sum.md)| 刚好相反 |
 | 48 | [最长不含重复字符的子字符串](https://www.nowcoder.com/practice/59b4ff4167e245c199922880c2733488?tpId=98&&tqId=32985&rp=1&ru=/activity/oj&qru=/ta/2019test/question-ranking) | [3. Longest Substring Without Repeating Characters](solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|
 | 49 | [丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [264. Ugly Number II](solutions/264.%20Ugly%20Number%20II.md)|
+| 50 | [一、字符串中第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tqId=11187&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [387. First Unique Character in a String](solutions/387.%20First%20Unique%20Character%20in%20a%20String.md)|
+| 50 | [二、字符流中第一个只出现一次的字符](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&&tqId=11207&rp=1&ru=/activity/oj&qru=/ta/coding-interviews/question-ranking) | 无 |
+
 
 
 
