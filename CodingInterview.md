@@ -53,6 +53,7 @@
 | 46 | 把数字翻译成字符串 | [91. Decode Ways](solutions/91.%20Decode%20Ways.md)| 略有不同 |
 | 47 | 礼物的最大价值 | [64. Minimum Path Sum](solutions/64.%20Minimum%20Path%20Sum.md)| 刚好相反 |
 | 48 | [最长不含重复字符的子字符串](https://www.nowcoder.com/practice/59b4ff4167e245c199922880c2733488?tpId=98&&tqId=32985&rp=1&ru=/activity/oj&qru=/ta/2019test/question-ranking) | [3. Longest Substring Without Repeating Characters](solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|
+| 49 | [丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [264. Ugly Number II](solutions/264.%20Ugly%20Number%20II.md)|
 
 
 
