@@ -57,6 +57,7 @@
 | 50 | [一、字符串中第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tqId=11187&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [387. First Unique Character in a String](solutions/387.%20First%20Unique%20Character%20in%20a%20String.md)|
 | 50 | [二、字符流中第一个只出现一次的字符](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&&tqId=11207&rp=1&ru=/activity/oj&qru=/ta/coding-interviews/question-ranking) | 无 |
 | 51 | [数组中的逆序对](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tqId=11188&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [493. Reverse Pairs](solutions/493.%20Reverse%20Pairs.md) | 略有不同 |
+| 52 | [两个链表的第一个公共节点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tqId=11189&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [160. Intersection of Two Linked Lists](solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.md) |
 
 
 
