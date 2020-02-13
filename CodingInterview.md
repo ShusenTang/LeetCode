@@ -62,6 +62,9 @@
 | 53 | [二、0 ~ n-1中缺失的数字](https://www.nowcoder.com/practice/346ee3caea314c829abb16440c6cca7e?tpId=8&&tqId=11024&rp=1&ru=/activity/oj&qru=/ta/cracking-the-coding-interview/question-ranking) | [268. Missing Number](solutions/268.%20Missing%20Number.md) | 略有不同 |
 | 53 | 三、排序数组中数值和下标相等的元素 | 无 |
 | 54 | [二叉搜索树的第k大节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tqId=11215&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [230. Kth Smallest Element in a BST](solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) |
+| 55 | [一、二叉树的深度](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tqId=11191&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [104. Maximum Depth of Binary Tree](solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | 
+| 55 | [二、平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tqId=11192&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [110. Balanced Binary Tree](solutions/110.%20Balanced%20Binary%20Tree.md) |
+
 
 
 
