@@ -64,6 +64,8 @@
 | 54 | [二叉搜索树的第k大节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tqId=11215&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [230. Kth Smallest Element in a BST](solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) |
 | 55 | [一、二叉树的深度](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tqId=11191&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [104. Maximum Depth of Binary Tree](solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | 
 | 55 | [二、平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tqId=11192&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [110. Balanced Binary Tree](solutions/110.%20Balanced%20Binary%20Tree.md) |
+| 56 | [一、数组中只出现一次的两个数字](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [260. Single Number III](solutions/260.%20Single%20Number%20III.md) |
+| 56 | [二、数组中唯一只出现一次的数字](https://www.nowcoder.com/practice/26e46f1f5e0d48c4b9ba13fe3e8d0ec6?tpId=101&&tqId=33216&rp=1&ru=/activity/oj&qru=/ta/programmer-code-interview-guide/question-ranking) | [137. Single Number II](solutions/137.%20Single%20Number%20II.md) |
 
 
 
