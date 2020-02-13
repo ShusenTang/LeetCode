@@ -61,6 +61,7 @@
 | 53 | [一、数字在排序数组中出现的次数](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&tqId=11190&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [34. Find First and Last Position of Element in Sorted Array](solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) |
 | 53 | [二、0 ~ n-1中缺失的数字](https://www.nowcoder.com/practice/346ee3caea314c829abb16440c6cca7e?tpId=8&&tqId=11024&rp=1&ru=/activity/oj&qru=/ta/cracking-the-coding-interview/question-ranking) | [268. Missing Number](solutions/268.%20Missing%20Number.md) | 略有不同 |
 | 53 | 三、排序数组中数值和下标相等的元素 | 无 |
+| 54 | [二叉搜索树的第k大节点](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tqId=11215&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [230. Kth Smallest Element in a BST](solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) |
 
 
 
