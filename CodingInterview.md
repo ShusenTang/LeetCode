@@ -50,7 +50,7 @@
 | 43 | [1到n整数中1出现的次数](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tqId=11184&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [233. Number of Digit One](solutions/233.%20Number%20of%20Digit%20One.md)|
 | 44 | 数字序列中某一位的数字 | [400. Nth Digit](solutions/400.%20Nth%20Digit.md)|
 | 45 | [把数组排成最小的数](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tqId=11185&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [179. Largest Number](solutions/179.%20Largest%20Number.md)| 刚好相反 |
-| 46 | 把数字翻译成字符串 | [91. Decode Ways](solutions/91.%20Decode%20Ways.md)| 略有不同 |
+| 46 | [把数字翻译成字符串](https://www.nowcoder.com/practice/b83b126603dd4e63bc4287d32d754886?tpId=98&&tqId=32868&rp=1&ru=/activity/oj&qru=/ta/2019test/question-ranking) | [91. Decode Ways](solutions/91.%20Decode%20Ways.md)| 略有不同 |
 | 47 | [礼物的最大价值](https://www.nowcoder.com/practice/2fb62a4500af4f4ba5686c891eaad4a9?tpId=101&&tqId=33254&rp=1&ru=/activity/oj&qru=/ta/programmer-code-interview-guide/question-ranking) | [64. Minimum Path Sum](solutions/64.%20Minimum%20Path%20Sum.md)| 刚好相反 |
 | 48 | [最长不含重复字符的子字符串](https://www.nowcoder.com/practice/59b4ff4167e245c199922880c2733488?tpId=98&&tqId=32985&rp=1&ru=/activity/oj&qru=/ta/2019test/question-ranking) | [3. Longest Substring Without Repeating Characters](solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|
 | 49 | [丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [264. Ugly Number II](solutions/264.%20Ugly%20Number%20II.md)|
