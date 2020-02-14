@@ -66,6 +66,8 @@
 | 55 | [二、平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tqId=11192&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [110. Balanced Binary Tree](solutions/110.%20Balanced%20Binary%20Tree.md) |
 | 56 | [一、数组中只出现一次的两个数字](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [260. Single Number III](solutions/260.%20Single%20Number%20III.md) |
 | 56 | [二、数组中唯一只出现一次的数字](https://www.nowcoder.com/practice/26e46f1f5e0d48c4b9ba13fe3e8d0ec6?tpId=101&&tqId=33216&rp=1&ru=/activity/oj&qru=/ta/programmer-code-interview-guide/question-ranking) | [137. Single Number II](solutions/137.%20Single%20Number%20II.md) |
+| 57 | [一、和为s的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tqId=11195&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [167. Two Sum II - Input array is sorted](solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) |
+| 57 | [二、和为s的连续正整数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [829. Consecutive Numbers Sum](solutions/829.%20Consecutive%20Numbers%20Sum.md) |
 
 
 
