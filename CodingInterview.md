@@ -40,7 +40,7 @@
 | 35 | [复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [138. Copy List with Random Pointer](solutions/138.%20Copy%20List%20with%20Random%20Pointer.md)|
 | 36 | [二叉搜索树与双向链表](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | 426. Convert Binary Search Tree to Sorted Doubly Linked List | 有锁 |
 | 37 | [序列化二叉树](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [297. Serialize and Deserialize Binary Tree](solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|
-| 38 | 字符串的排列 | [46. Permutations](solutions/46.%20Permutations.md)| 无重复元素 |
+| 38 | [字符串的排列](https://www.nowcoder.com/practice/5632c23d0d654aecbc9315d1720421c1?tpId=40&&tqId=21374&rp=1&ru=/activity/oj&qru=/ta/kaoyan/question-ranking) | [46. Permutations](solutions/46.%20Permutations.md)| 无重复元素 |
 | 38 | [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [47. Permutations II](solutions/47.%20Permutations%20II.md)| 有重复元素 | 
 | 38 | 扩展：字符串的组合 | [77. Combinations](solutions/77.%20Combinations.md)| 
 | 39 | [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tqId=11181&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [169. Majority Element](solutions/169.%20Majority%20Element.md)| 
