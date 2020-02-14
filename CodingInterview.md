@@ -68,6 +68,8 @@
 | 56 | [二、数组中唯一只出现一次的数字](https://www.nowcoder.com/practice/26e46f1f5e0d48c4b9ba13fe3e8d0ec6?tpId=101&&tqId=33216&rp=1&ru=/activity/oj&qru=/ta/programmer-code-interview-guide/question-ranking) | [137. Single Number II](solutions/137.%20Single%20Number%20II.md) |
 | 57 | [一、和为s的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tqId=11195&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [167. Two Sum II - Input array is sorted](solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) |
 | 57 | [二、和为s的连续正整数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [829. Consecutive Numbers Sum](solutions/829.%20Consecutive%20Numbers%20Sum.md) |
+| 58 | [一、翻转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tqId=11197&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [151. Reverse Words in a String](solutions/151.%20Reverse%20Words%20in%20a%20String.md) |
+|58 | [二、左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tqId=11196&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [189. Rotate Array](solutions/189.%20Rotate%20Array.md) | 略有不同 |
 
 
 
