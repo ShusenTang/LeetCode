@@ -70,6 +70,7 @@
 | 57 | [二、和为s的连续正整数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [829. Consecutive Numbers Sum](solutions/829.%20Consecutive%20Numbers%20Sum.md) |
 | 58 | [一、翻转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tqId=11197&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [151. Reverse Words in a String](solutions/151.%20Reverse%20Words%20in%20a%20String.md) |
 |58 | [二、左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tqId=11196&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [189. Rotate Array](solutions/189.%20Rotate%20Array.md) | 略有不同 |
+|59 | [一、滑动窗口的最大值](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&tqId=11217&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [239. Sliding Window Maximum](solutions/239.%20Sliding%20Window%20Maximum.md) | |
 
 
 
