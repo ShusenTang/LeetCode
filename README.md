@@ -299,6 +299,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 665 |[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/665.%20Non-decreasing%20Array.md)|Easy|  |
 | 714 |[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)|Medium|  |
 | 829 |[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[C++](solutions/829.%20Consecutive%20Numbers%20Sum.md)|Hard|  |
+| 846 |[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](solutions/846.%20Hand%20of%20Straights.md)|Medium|  |
 | 905 |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[C++](solutions/905.%20Sort%20Array%20By%20Parity.md)|Easy|  |
 | 946 |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](solutions/946.%20Validate%20Stack%20Sequences.md)|Medium|  |
 | 1155 |[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[C++](solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md)|Medium|  |
