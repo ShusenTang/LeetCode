@@ -301,3 +301,4 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 829 |[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[C++](solutions/829.%20Consecutive%20Numbers%20Sum.md)|Hard|  |
 | 905 |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[C++](solutions/905.%20Sort%20Array%20By%20Parity.md)|Easy|  |
 | 946 |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](solutions/946.%20Validate%20Stack%20Sequences.md)|Medium|  |
+| 1155 |[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[C++](solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md)|Medium|  |
