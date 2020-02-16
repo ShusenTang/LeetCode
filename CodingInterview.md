@@ -71,6 +71,7 @@
 | 58 | [一、翻转单词顺序](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tqId=11197&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [151. Reverse Words in a String](solutions/151.%20Reverse%20Words%20in%20a%20String.md) |
 |58 | [二、左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tqId=11196&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [189. Rotate Array](solutions/189.%20Rotate%20Array.md) | 略有不同 |
 |59 | [一、滑动窗口的最大值](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&tqId=11217&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [239. Sliding Window Maximum](solutions/239.%20Sliding%20Window%20Maximum.md) | |
+|60 | [n个骰子的点数](https://www.nowcoder.com/practice/0e83797c34e54cca91179fe9ad681bc4?tpId=90&&tqId=30849&rp=1&ru=/activity/oj&qru=/ta/2018test/question-ranking) | [1155. Number of Dice Rolls With Target Sum](solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md) | 略有不同 |
 
 
 
