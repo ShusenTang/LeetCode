@@ -5,6 +5,7 @@
 * 题目：[《牛客网剑指offer专题》](https://www.nowcoder.com/ta/coding-interviews?page=1)对应题目链接，这是第1版的，所以第2版有的题目这里没有；
 * LeetCode: 对应LeetCode题目的题解链接；
 
+> 注：这里的LeetCode都是英文区。最近LeetCode中国区收录了《剑指offer》第2版中的所有题目，[传送门](https://leetcode-cn.com/problemset/lcof/)；另外，LeetCode中国区还收录了《程序员面试金典》第6版的所有题目，[传送门](https://leetcode-cn.com/problemset/lcci/)。
 
 | 编号 | 题目 | LeetCode | 备注 |
 | ---- | --- | ----- | ----- |
