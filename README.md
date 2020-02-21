@@ -11,6 +11,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 1 |[Two Sum](https://leetcode.com/problems/two-sum)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/1.%20Two%20Sum.md)|Easy|  |
 | 2 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/2.%20Add%20Two%20Numbers.md)|Medium|  |
 | 3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|  |
+| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.md)|Hard|  |
 | 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/5.%20Longest%20Palindromic%20Substring.md)|Medium|  |
 | 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/6.%20ZigZag%20Conversion.md)|Medium|  |
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/7.%20Reverse%20Integer.md)|Easy|  |
