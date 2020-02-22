@@ -44,6 +44,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/39.%20Combination%20Sum.md)|Medium|  |
 | 40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/40.%20Combination%20Sum%20II.md)|Medium|  |
 | 41 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](solutions/41.%20First%20Missing%20Positive.md)|Hard|  |
+| 42 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](solutions/42.%20Trapping%20Rain%20Water.md)|Hard|  |
 | 43 |[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/43.%20Multiply%20Strings.md)|Medium|  |
 | 46 |[Permutations](https://leetcode.com/problems/permutations/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/46.%20Permutations.md)|Medium|  |
 | 47 |[Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/47.%20Permutations%20II.md)|Medium|  |
