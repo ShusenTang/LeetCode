@@ -34,6 +34,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/24.%20Swap%20Nodes%20in%20Pairs.md)|Medium|  |
 | 26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|Easy|  |
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/27.%20Remove%20Element.md)|Easy|  |
+| 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](solutions/28.%20Implement%20strStr().md)|Easy|  |
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/29.%20Divide%20Two%20Integers.md)|Medium|  |
 | 31 |[Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/31.%20Next%20Permutation.md)|Medium|  |
 | 34 |[Find First and Last Position of Element in Sorted ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|Medium|  |
