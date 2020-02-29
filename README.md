@@ -70,6 +70,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/69.%20Sqrt(x).md)|Easy|  |
 | 70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/70.%20Climbing%20Stairs.md)|Easy|  |
 | 71 |[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/71.%20Simplify%20Path.md)|Medium|  |
+| 72 |[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](solutions/72.%20Edit%20Distance.md)|Hard|  |
 | 73 |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/73.%20Set%20Matrix%20Zeroes.md)|Medium|  |
 | 74 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/74.%20Search%20a%202D%20Matrix.md)|Medium|  |
 | 75 |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/75.%20Sort%20Colors.md)|Medium|  |
