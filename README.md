@@ -129,6 +129,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 137 |[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/137.%20Single%20Number%20II.md)|Medium|  |
 | 138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/138.%20Copy%20List%20with%20Random%20Pointer.md)|Medium|  |
 | 139 |[Word Break](https://leetcode.com/problems/word-break/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/139.%20Word%20Break.md)|Medium|  |
+| 140 |[Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](solutions/140.%20Word%20Break%20II.md)|Hard|  |
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/141.%20Linked%20List%20Cycle.md)|Easy|  |
 | 142 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/142.%20Linked%20List%20Cycle%20II.md)|Medium|  |
 | 143 |[Reorder List](https://leetcode.com/problems/reorder-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/143.%20Reorder%20List.md)|Medium|  |
