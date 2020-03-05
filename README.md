@@ -166,6 +166,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/205.%20Isomorphic%20Strings.md)|Easy|  |
 | 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/206.%20Reverse%20Linked%20List.md)|Easy|  |
 | 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/207.%20Course%20Schedule.md)|Medium|  |
+| 208 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](solutions/208.%20Implement%20Trie%20(Prefix%20Tree).md)|Medium|  |
 | 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/209.%20Minimum%20Size%20Subarray%20Sum.md)|Medium|  |
 | 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/210.%20Course%20Schedule%20II.md)|Medium|  |
 | 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/213.%20House%20Robber%20II.md)|Medium|  |
