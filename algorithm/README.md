@@ -7,7 +7,11 @@
 ## 数组
 * [排序](array/sort.md)
     * 快速排序
-    * 归并排序
+    * 归并排序   
+
+* [单调数据结构](array/monotonic_stack_queue.md)
+    * 单调栈
+    * 单调队列
 
 ## 图
 
