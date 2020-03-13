@@ -82,6 +82,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 81 |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|  |
 | 82 |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)|Medium|  |
 | 83 |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Easy|  |
+| 84 |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](solutions/84.%20Largest%20Rectangle%20in%20Histogram.md)|Hard|  |
 | 86 |[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/86.%20Partition%20List.md)|Medium|  |
 | 88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/88.%20Merge%20Sorted%20Array.md)|Easy|  |
 | 89 |[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/89.%20Gray%20Code.md)|Medium|  |
