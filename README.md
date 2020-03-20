@@ -171,6 +171,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 208 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](solutions/208.%20Implement%20Trie%20(Prefix%20Tree).md)|Medium|  |
 | 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/209.%20Minimum%20Size%20Subarray%20Sum.md)|Medium|  |
 | 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/210.%20Course%20Schedule%20II.md)|Medium|  |
+| 212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](solutions/212.%20Word%20Search%20II.md)|Hard|  |
 | 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/213.%20House%20Robber%20II.md)|Medium|  |
 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)|Medium|  |
 | 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/216.%20Combination%20Sum%20III.md)|Medium|  |
