@@ -225,6 +225,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 310 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/310.%20Minimum%20Height%20Trees.md)|Medium|  |
 | 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/312.%20Burst%20Balloons.md)|Hard|  |
 | 313 |[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/313.%20Super%20Ugly%20Number.md)|Medium|  |
+| 315 |[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)|Hard|  |
 | 318 |[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/318.%20Maximum%20Product%20of%20Word%20Lengths.md)|Medium|  |
 | 319 |[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/319.%20Bulb%20Switcher.md)|Medium|  |
 | 322 |[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/322.%20Coin%20Change.md)|Medium|  |
