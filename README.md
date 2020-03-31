@@ -37,6 +37,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](solutions/28.%20Implement%20strStr().md)|Easy|  |
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/29.%20Divide%20Two%20Integers.md)|Medium|  |
 | 31 |[Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/31.%20Next%20Permutation.md)|Medium|  |
+| 32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](solutions/32.%20Longest%20Valid%20Parentheses.md)|Hard|  |
 | 34 |[Find First and Last Position of Element in Sorted ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|Medium|  |
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|Medium|  |
 | 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/35.%20Search%20Insert%20Position.md)|Easy|  |
