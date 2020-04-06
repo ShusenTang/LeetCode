@@ -235,6 +235,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 324 |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/324.%20Wiggle%20Sort%20II.md)|Medium|  |
 | 326 |[Power of Three](https://leetcode.com/problems/power-of-three)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/326.%20Power%20of%20Three.md)|Easy|  |
 | 328 |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/328.%20Odd%20Even%20Linked%20List.md)|Medium|  |
+| 329 |[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)|Hard|  |
 | 331 |[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.md)|Medium|  |
 | 332 |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/332.%20Reconstruct%20Itinerary.md)|Medium|  |
 | 334 |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/334.%20Increasing%20Triplet%20Subsequence.md)|Medium|  |
