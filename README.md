@@ -178,6 +178,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)|Medium|  |
 | 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/216.%20Combination%20Sum%20III.md)|Medium|  |
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/217.%20Contains%20Duplicate.md)|Easy|  |
+| 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](solutions/218.%20The%20Skyline%20Problem.md)|Hard|  |
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/219.%20Contains%20Duplicate%20II.md)|Easy|  |
 | 220 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/220.%20Contains%20Duplicate%20III.md)|Medium|  |
 | 221 |[Maximal Square](https://leetcode.com/problems/maximal-square/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/221.%20Maximal%20Square.md)|Medium|  |
