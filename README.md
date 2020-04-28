@@ -221,6 +221,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 295 |[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C++](solutions/295.%20Find%20Median%20from%20Data%20Stream.md)|Hard|  |
 | 297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|  |
 | 300 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/300.%20Longest%20Increasing%20Subsequence.md)|Medium|  |
+| 301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[C++](solutions/301.%20Remove%20Invalid%20Parentheses.md)|Hard|  |
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.md)|Easy|  |
 | 304 |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)|Medium|  |
 | 306 |[Additive Number](https://leetcode.com/problems/additive-number/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/306.%20Additive%20Number.md)|Medium|  |
