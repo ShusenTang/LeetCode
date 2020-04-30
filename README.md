@@ -313,6 +313,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 500 |[Keyboard Row](https://leetcode.com/problems/keyboard-row)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/500.%20Keyboard%20Row.md)|Easy|  |
 | 509 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](solutions/509.%20Fibonacci%20Number.md)|Easy|  |
 | 532 |[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/532.%20K-diff%20Pairs%20in%20an%20Array.md)|Easy|  |
+| 543 |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](solutions/543.%20Diameter%20of%20Binary%20Tree.md)|Easy|  |
 | 561 |[Array Partition I](https://leetcode.com/problems/array-partition-i)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/561.%20Array%20Partition%20I.md)|Easy|  |
 | 566 |[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/566.%20Reshape%20the%20Matrix.md)|Easy|  |
 | 572 |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](solutions/572.%20Subtree%20of%20Another%20Tree.md)|Easy|  |
