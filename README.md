@@ -284,6 +284,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 400 |[Nth Digit](https://leetcode.com/problems/nth-digit)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/400.%20Nth%20Digit.md)|Medium|  |
 | 404 |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/404.%20Sum%20of%20Left%20Leaves.md)|Easy|  |
 | 405 |[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/405.%20Convert%20a%20Number%20to%20Hexadecimal.md)|Easy|  |
+| 406 |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](solutions/406.%20Queue%20Reconstruction%20by%20Height.md)|Medium|  |
 | 409 |[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/409.%20Longest%20Palindrome.md)|Easy|  |
 | 412 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](solutions/412.%20Fizz%20Buzz.md)|Easy|  |
 | 414 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/414.%20Third%20Maximum%20Number.md)|Easy|  |
