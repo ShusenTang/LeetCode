@@ -322,6 +322,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 581 |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)|Easy|  |
 | 605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/605.%20Can%20Place%20Flowers.md)|Easy|  |
 | 617 |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](solutions/617.%20Merge%20Two%20Binary%20Trees.md)|Easy|  |
+| 621 |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](solutions/621.%20Task%20Scheduler.md)|Medium|  |
 | 628 |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/628.%20Maximum%20Product%20of%20Three%20Numbers.md)|Easy|  |
 | 643 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/643.%20Maximum%20Average%20Subarray%20I.md)|Easy|  |
 | 661 |[Image Smoother](https://leetcode.com/problems/image-smoother)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/661.%20Image%20Smoother.md)|Easy|  |
