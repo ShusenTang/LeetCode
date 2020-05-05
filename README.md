@@ -325,6 +325,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 621 |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](solutions/621.%20Task%20Scheduler.md)|Medium|  |
 | 628 |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/628.%20Maximum%20Product%20of%20Three%20Numbers.md)|Easy|  |
 | 643 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/643.%20Maximum%20Average%20Subarray%20I.md)|Easy|  |
+| 647 |[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](solutions/647.%20Palindromic%20Substrings.md)|Medium|  |
 | 661 |[Image Smoother](https://leetcode.com/problems/image-smoother)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/661.%20Image%20Smoother.md)|Easy|  |
 | 665 |[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/665.%20Non-decreasing%20Array.md)|Easy|  |
 | 714 |[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)|Medium|  |
