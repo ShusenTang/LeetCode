@@ -329,6 +329,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 661 |[Image Smoother](https://leetcode.com/problems/image-smoother)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/661.%20Image%20Smoother.md)|Easy|  |
 | 665 |[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/665.%20Non-decreasing%20Array.md)|Easy|  |
 | 714 |[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)|Medium|  |
+| 739 |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](solutions/739.%20Daily%20Temperatures.md)|Medium|  |
 | 829 |[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[C++](solutions/829.%20Consecutive%20Numbers%20Sum.md)|Hard|  |
 | 846 |[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[C++](solutions/846.%20Hand%20of%20Straights.md)|Medium|  |
 | 905 |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[C++](solutions/905.%20Sort%20Array%20By%20Parity.md)|Easy|  |
