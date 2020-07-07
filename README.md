@@ -138,6 +138,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 142 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/142.%20Linked%20List%20Cycle%20II.md)|Medium|  |
 | 143 |[Reorder List](https://leetcode.com/problems/reorder-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/143.%20Reorder%20List.md)|Medium|  |
 | 144 |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/144.%20Binary%20Tree%20Preorder%20Traversal.md)|Medium|  |
+| 145 |[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](solutions/145.%20Binary%20Tree%20Postorder%20Traversal.md)|Hard|  |
 | 146 |[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](solutions/146.%20LRU%20Cache.md)|Medium|  |
 | 148 |[Sort List](https://leetcode.com/problems/sort-list/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/148.%20Sort%20List.md)|Medium|  |
 | 149 |[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[C++](solutions/149.%20Max%20Points%20on%20a%20Line.md)|Hard|  |
@@ -174,6 +175,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 208 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](solutions/208.%20Implement%20Trie%20(Prefix%20Tree).md)|Medium|  |
 | 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/209.%20Minimum%20Size%20Subarray%20Sum.md)|Medium|  |
 | 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/210.%20Course%20Schedule%20II.md)|Medium|  |
+| 211 |[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[C++](solutions/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.md)|Medium|  |
 | 212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](solutions/212.%20Word%20Search%20II.md)|Hard|  |
 | 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/213.%20House%20Robber%20II.md)|Medium|  |
 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)|Medium|  |
