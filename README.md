@@ -216,6 +216,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 278 |[First Bad Version](https://leetcode.com/problems/first-bad-version)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/278.%20First%20Bad%20Version.md)|Easy|  |
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/279.%20Perfect%20Squares.md)|Medium|  |
 | 283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/283.%20Move%20Zeroes.md)|Easy|  |
+| 284 |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[C++](solutions/284.%20Peeking%20Iterator.md)|Medium|  |
 | 287 |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/287.%20Find%20the%20Duplicate%20Number.md)|Medium|  |
 | 289 |[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/289.%20Game%20of%20Life.md)|Medium|  |
 | 290 |[Word Pattern](https://leetcode.com/problems/word-pattern)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/290.%20Word%20Pattern.md)|Easy|  |
