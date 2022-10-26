@@ -223,6 +223,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 292 |[Nim Game](https://leetcode.com/problems/nim-game)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/292.%20Nim%20Game.md)|Easy|  |
 | 295 |[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C++](solutions/295.%20Find%20Median%20from%20Data%20Stream.md)|Hard|  |
 | 297 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)|Hard|  |
+| 299 |[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](solutions/299.%20Bulls%20and%20Cows.md)|Medium|  |
 | 300 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/300.%20Longest%20Increasing%20Subsequence.md)|Medium|  |
 | 301 |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[C++](solutions/301.%20Remove%20Invalid%20Parentheses.md)|Hard|  |
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/303.%20Range%20Sum%20Query%20-%20Immutable.md)|Easy|  |
