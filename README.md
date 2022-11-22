@@ -287,6 +287,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 397 |[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/397.%20Integer%20Replacement.md)|Medium|  |
 | 398 |[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/398.%20Random%20Pick%20Index.md)|Medium|  |
 | 400 |[Nth Digit](https://leetcode.com/problems/nth-digit)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/400.%20Nth%20Digit.md)|Medium|  |
+| 401 |[Binary Watch](https://leetcode.cn/problems/binary-watch/)|[C++](solutions/401.%20Binary%20Watch.md)|Easy|  |
 | 402 |[Remove K Digits](https://leetcode.cn/problems/remove-k-digits/)|[C++](solutions/402.%20Remove%20K%20Digits.md)|Medium|  |
 | 404 |[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/404.%20Sum%20of%20Left%20Leaves.md)|Easy|  |
 | 405 |[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/405.%20Convert%20a%20Number%20to%20Hexadecimal.md)|Easy|  |
