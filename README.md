@@ -294,6 +294,7 @@ My LeetCode solutions with Chinese explanation. 我的LeetCode中文题解。
 | 406 |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](solutions/406.%20Queue%20Reconstruction%20by%20Height.md)|Medium|  |
 | 409 |[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/409.%20Longest%20Palindrome.md)|Easy|  |
 | 412 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](solutions/412.%20Fizz%20Buzz.md)|Easy|  |
+| 413 |[Arithmetic Slices](https://leetcode.cn/problems/arithmetic-slices/)|[C++](solutions/413.%20Arithmetic%20Slices.md)|Medium|  |
 | 414 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/414.%20Third%20Maximum%20Number.md)|Easy|  |
 | 415 |[Add Strings](https://leetcode.com/problems/add-strings)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/415.%20Add%20Strings.md)|Easy|  |
 | 416 |[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](https://github.com/ShusenTang/LeetCode/blob/master/solutions/416.%20Partition%20Equal%20Subset%20Sum.md)|Medium|  |
